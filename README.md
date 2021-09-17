@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadikir
+- 👋 Hi, I’m Sadiki
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently expanding my knowledge in software development
 - 💞️ I’m looking to collaborate on Javascript projects
